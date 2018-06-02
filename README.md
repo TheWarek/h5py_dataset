@@ -1,7 +1,7 @@
 # h5py dataset
 
 
-Simple python script to extract pach around detected key-points as an h5py file.
+Simple python script to extract patches around detected key-points and stored them as an h5py file.
 
 Stored on disk.
 
